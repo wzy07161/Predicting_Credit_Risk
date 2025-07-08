@@ -26,8 +26,3 @@ To run the notebook and reproduce results, you will need:
 - `pandas`, `numpy`, `matplotlib`, `seaborn`
 - `scikit-learn`
 - `xgboost`
-
-You can install the required libraries using:
-
-```bash
-pip install -r requirements.txt
