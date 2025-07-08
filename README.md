@@ -1,5 +1,4 @@
-# Predicting_Credit_Risk
-## Credit Risk Prediction Dashboard
+# Credit Risk Prediction Dashboard
 
 This project presents a machine learning solution for predicting credit risk, developed as part of CPSC 330 coursework. The accompanying HTML report (`hw5__2___1_.html`) summarizes the modeling pipeline, evaluation metrics, and key insights derived from the data.
 
